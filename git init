@@ -1,0 +1,65 @@
+[33mcommit 04e80d49672a6ee8f9bb5e53894e5d8fc8919702[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Mon Feb 6 11:23:06 2023 -0300
+
+    Handling exceptions and clearing screen
+
+[33mcommit f35c6d9c17ce21e766375988edc2f4dcb6f5af8b[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Mon Feb 6 10:56:26 2023 -0300
+
+    Moving pieces
+
+[33mcommit cf4b747ff0826e05157cfacf305c85add47204ed[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Wed Feb 1 15:33:28 2023 -0300
+
+    Littleimprovement in board printing2
+
+[33mcommit 462a1fdfd4ef9996e16a12a56d015a7d8aed4def[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Wed Feb 1 10:23:12 2023 -0300
+
+    Little improvement on board printing
+
+[33mcommit 432b442bc82782946d41e0d8193d5e6a8fb7b060[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 31 17:09:10 2023 -0300
+
+    ChessException and ChessPosition
+
+[33mcommit bc29b9d1fd78211a4be920a042fbeae7206e295a[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 3 15:00:54 2023 -0300
+
+    BoardException and defensive programming
+
+[33mcommit e9e85dfa9aaff74f34fc5a0bb5ec3fa3df732fe2[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 3 14:20:06 2023 -0300
+
+    Placing pieces on the board
+
+[33mcommit 122c91aa33c5f020fe379579ec9d436c0b13efc1[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 3 12:08:02 2023 -0300
+
+    Chess layer and printing the board
+
+[33mcommit aacfca0dc376ab3c657d1f8a546d960b845826f4[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 3 10:49:39 2023 -0300
+
+    Starting to implement Board and Piece
+
+[33mcommit da81c6289f6699200b0b82a8e5adaaa4f7a04d9b[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 3 10:28:01 2023 -0300
+
+    first class: Position
+
+[33mcommit 462d05c192e24a6a67cf04bccf400806b1497384[m
+Author: andreykristiann <andreykristiann@gmail.com>
+Date:   Tue Jan 3 09:34:08 2023 -0300
+
+    projeto criado
